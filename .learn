@@ -5,6 +5,3 @@ languages:
   - JS
 resources: 
   - 0
-var header = document.querySelector("#header").innerHTML
-var linkText = document.querySelector('a').innerHTML
-var linkHref = document.querySelector('a[href]')
